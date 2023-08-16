@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi there 👋, Hilal here. 
 
-<!--
-**hilalozdes/hilalozdes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
-Here are some ideas to get you started:
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me!***
 
-- 🔭 I’m currently working on ...
+I'm a gamer who graduated in Visual Communication Design! Since my childhood, I started to learn about my enthusiasm for the game by leaving my profession. I am currently taking C#, Unity and Blender classes. 
+* **I am interested in Level Design and Digital Marketing**
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  - Unity
+  - C# 
+- 👯 I’m looking forward to collaborate on open source projects.
+- ✔ Ask me about anything, I am happy to learn! 😉<br>
+- Outside tech, 📖 I love to read novels, 🖌️ do painting and streaming, 🎵 listen to music, and 🌴 explore nature outdoors.
+- 📫 Reach out to me at: <a href="hilalozdes@gmail.com">hilalozdes@gmail.com</a>
